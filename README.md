@@ -55,7 +55,8 @@ endmodule
 ```
 ## OUTPUT:
 
-![WhatsApp Image 2024-04-13 at 13 18 57_32a9c898](https://github.com/jayashree1707/VLSI-LAB-EXP-5/assets/160314881/6b7910fb-042d-47a5-bd74-3d255d1a724c)
+![331220693-6b7910fb-042d-47a5-bd74-3d255d1a724c](https://github.com/jayashree1707/VLSI-LAB-EXP-5/assets/160314881/4dfb3b4e-a056-4c2f-b690-8866b8e6b175)
+
 
 
 ## RESULT:
